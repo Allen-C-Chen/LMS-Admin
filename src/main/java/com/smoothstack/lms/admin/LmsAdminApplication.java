@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class LmsAdminApplication {
 	//test 1 2
 	//test 4
+	//test 5
 	public static void main(String[] args) {
 		SpringApplication.run(LmsAdminApplication.class, args);
 	}
