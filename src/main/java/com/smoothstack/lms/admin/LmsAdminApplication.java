@@ -10,7 +10,7 @@ public class LmsAdminApplication {
 	//test 5
 	//test 15
 	//should all wokr
-	//DONE
+	//DONE NOW
 	public static void main(String[] args) {
 		SpringApplication.run(LmsAdminApplication.class, args);
 	}
