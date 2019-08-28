@@ -11,6 +11,7 @@ public class LmsAdminApplication {
 	//test 15
 	//should all wokr
 	//DONE NOW
+	//LAST CHECK
 	public static void main(String[] args) {
 		SpringApplication.run(LmsAdminApplication.class, args);
 	}
